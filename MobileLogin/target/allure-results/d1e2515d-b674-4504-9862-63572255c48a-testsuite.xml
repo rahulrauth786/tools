@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1620452282196" stop="1620452317268" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1620452282488" stop="1620452293757" status="passed">
+            <name>Login</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-80GPVLR"/>
+                <label name="thread" value="17336@DESKTOP-80GPVLR.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1620452294967" stop="1620452317226" status="passed">
+            <name>OtpPage</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-80GPVLR"/>
+                <label name="thread" value="17336@DESKTOP-80GPVLR.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
